@@ -63,12 +63,12 @@ An automated dashboard providing quick & latest sales insights in order to suppo
 
 ### Setup Process
   
-Step 1: Download file: <code>[db_dump.sql](https://github.com/UpeshJeengar/Sales-Insights-Data-Analysis-using-Tableau-and-SQL/blob/main/Databases/db_dump.sql)</code> or <code>[db_dump.xlsx](https://github.com/UpeshJeengar/Sales-Insights-Data-Analysis-using-Tableau-and-SQL/blob/main/Databases/db_dump.xlsx)</code>
+Step 1: Download file: <code>[db_dump.sql](https://github.com/Upeshjeengar/Sales-Insights-Data-Analysis-using-Tableau-and-SQL/blob/master/Databases/db_dump.sql)</code> or <code>[db_dump.xlsx](https://github.com/Upeshjeengar/Sales-Insights-Data-Analysis-using-Tableau-and-SQL/blob/master/Databases/db_dump.xlsx)</code>
 
 Step 2: Import it in MySql do ETL(Extract, Transform, Load) if required
 
 Step 3: Download [Tableau Public](https://www.tableau.com/products/public/download) (Free) or [Tableau Desktop](https://www.tableau.com/products/desktop/download) (14 days trial) to perform Data Analysis
-  
+
 Step 4: Connect Tableau with MySql database or Excel database
   
 Step 5: Save the file as (.twb or .twbx)
