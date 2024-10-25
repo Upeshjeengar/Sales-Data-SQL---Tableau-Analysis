@@ -24,7 +24,7 @@
 
 ## Project - India based Hardware company Sales Insights - Data Analysis performed on Tableau & SQL
   
-### [Tableau Dashboard Link](https://www.tableau.com/products/desktop/download) <a href="https://public.tableau.com/views/SalesInsights-DataAnalysisProject/Dashboard-RevenueAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/a768d6bf0a001f03327578ae12f8867e4056cbaf/tableau-software.svg" alt="tableau" width="40" height="20"/> </a>  🔗
+### [Tableau Dashboard Link](https://public.tableau.com/app/profile/upeshjeengar/viz/SalesInsights-DataAnalysisProjectusingTableau_17230314035370/Dashboard-RevenueAnalysis) <a href="[https://public.tableau.com/views/SalesInsights-DataAnalysisProject/Dashboard-RevenueAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link](https://public.tableau.com/app/profile/upeshjeengar/viz/SalesInsights-DataAnalysisProjectusingTableau_17230314035370/Dashboard-RevenueAnalysis)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/a768d6bf0a001f03327578ae12f8867e4056cbaf/tableau-software.svg" alt="tableau" width="40" height="20"/> </a>  🔗
 
 ### Problem Statements
 Sales director wants to know the performance of the company in various Indian states & accordingly provide some discount.
@@ -135,7 +135,7 @@ Step 5: Save the file as (.twb or .twbx)
 
 |**Sr.No. 🔢**|**References 👨‍💻**| **Links :link:**|
 |------|--------------------|---------------------|
-|1| **Tableau Project Dashboard :** Sales Insights - Data Analysis using Tableau | [Dashboard](https://public.tableau.com/views/SalesInsights-DataAnalysisProject/Dashboard-RevenueAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)|
+|1| **Tableau Project Dashboard :** Sales Insights - Data Analysis using Tableau | [Dashboard](https://public.tableau.com/app/profile/upeshjeengar/viz/SalesInsights-DataAnalysisProjectusingTableau_17230314035370/Dashboard-RevenueAnalysis)|
 |2| **Tableau Public Profile** | [Tableau Public Dashboard](https://public.tableau.com/app/profile/upeshjeengar) |
 |3| Tutorial | [YouTube 1](https://www.youtube.com/playlist?list=PLeo1K3hjS3utcb9nKtanhcn8jd2E0Hp9b) | 
 |4| MySQL installation | [YouTube 2](https://www.youtube.com/watch?v=WuBcTJnIuzo) |
